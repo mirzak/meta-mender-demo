@@ -1,5 +1,3 @@
-FILESEXTRAPATHS_prepend := "${THISDIR}/files:"
-
 MENDER_DEMO_HOST_IP_ADDRESS ?= ""
 
 do_install_append() {
